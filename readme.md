@@ -2,6 +2,13 @@
 
 ## Set up
 
+1. Install Python
+
+`sudo apt update && sudo apt upgrade`
+`sudo apt install python3`
+
+2. Install Python dependencies/requirements
+
 `pip install pyyaml jinja2`
 
 ## Run
